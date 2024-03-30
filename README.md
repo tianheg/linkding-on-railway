@@ -16,4 +16,4 @@ After running out of credits, you can add a credit card to your Railway account,
 
 Just click below button:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/BxdomX)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BxdomX)
