@@ -15,5 +15,5 @@ After running out of credits, you can add a credit card to your Railway account,
 ### Usage
 
 1. Simply click the button: [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BxdomX)
-2. Click on two 'Configure' buttons. The first one is for the Postgres DB. After configuring, click 'Save Config'. The second one is for the latest Linkding Docker image. After clicking 'Configure', you will need to fill in `LD_SUPERUSER_NAME`, which is the username for the Linkding web page. For `LD_SUPERUSER_PASSWORD`, use a random 32-character string as the password for the Linkding page. You can find this information after deploying, in the Variables tab of the Linkding card.
+2. You need to fill in `LD_SUPERUSER_NAME`, which is the username for the Linkding web page. For `LD_SUPERUSER_PASSWORD`, use a random 32-character string as the password for the Linkding page. You can find this information after deploying, in the Variables tab of the Linkding card.
 3. You can customize the domain to make it more user-friendly.
