@@ -17,3 +17,7 @@ After running out of credits, you can add a credit card to your Railway account,
 1. Simply click the button: [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BxdomX)
 2. You need to fill in `LD_SUPERUSER_NAME`, which is the username for the Linkding web page. For `LD_SUPERUSER_PASSWORD`, use a random 32-character string as the password for the Linkding page. You can find this information after deploying, in the Variables tab of the Linkding card.
 3. You can customize the domain to make it more user-friendly.
+
+### Q&A
+
+[Railway Help Station about Linkding](https://station.railway.com/all-templates/ecf15d20-1851-4931-a390-eacd8ab711fd)
